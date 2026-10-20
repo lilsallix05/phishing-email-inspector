@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Donation event invitation =?utf-8?b?4oCU?= notice
+Date: Mon, 19 Oct 2026 10:00:00 +0800
+Message-ID: <b15-2@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8372612822466364317=="
+
+--===============8372612822466364317==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Our community event supports the food bank. Donations are optional. See the p=
+rogramme at our website.
+
+Best wishes,
+Coordinator
+
+--===============8372612822466364317==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Our community event supports the food bank. Donations are optional. See th=
+e programme at our website.</p><a href=3D"https://office.example.org/info">ht=
+tps://office.example.org/info</a>
+
+--===============8372612822466364317==--

@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Conference registration =?utf-8?b?4oCU?= notice
+Date: Mon, 19 Oct 2026 10:00:00 +0800
+Message-ID: <b17-2@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5658371341524925201=="
+
+--===============5658371341524925201==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Your registration is complete. Keep the confirmation for entry. The programme=
+ and directions are on our website.
+
+Best wishes,
+Coordinator
+
+--===============5658371341524925201==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>Your registration is complete. Keep the confirmation for entry. The progra=
+mme and directions are on our website.</p><a href=3D"https://office.example.o=
+rg/info">https://office.example.org/info</a>
+
+--===============5658371341524925201==--

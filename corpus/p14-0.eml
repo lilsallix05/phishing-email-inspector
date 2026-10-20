@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Delivery address correction
+Date: Mon, 19 Oct 2026 08:00:00 +0800
+Message-ID: <p14-0@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============3275551692613747139=="
+
+--===============3275551692613747139==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Confirm your address and pay a processing fee for delivery today. Final warni=
+ng for your parcel.
+
+Regards,
+Service team
+
+--===============3275551692613747139==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Confirm your address and pay a processing fee for delivery tod=
+ay. Final warning for your parcel.</p><a href=3D"http://192.0.2.55/verify">ht=
+tps://portal.example.org/account</a></body></html>
+
+--===============3275551692613747139==--

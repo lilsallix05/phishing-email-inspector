@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: MFA support verification =?utf-8?b?4oCU?= reminder
+Date: Mon, 19 Oct 2026 09:00:00 +0800
+Message-ID: <p09-1@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============0963357109377887849=="
+
+--===============0963357109377887849==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear student,
+
+Support needs to verify your identity. Share your OTP immediately to prevent =
+account suspension.
+
+Thank you,
+Office
+
+--===============0963357109377887849==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Support needs to verify your identity. Share your OTP immediat=
+ely to prevent account suspension.</p><a href=3D"https://review.example.net/c=
+ontinue">https://portal.example.org/account</a></body></html>
+
+--===============0963357109377887849==--

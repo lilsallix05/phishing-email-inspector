@@ -1,0 +1,29 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Invoice attachment =?utf-8?b?4oCU?= reminder
+Date: Mon, 19 Oct 2026 09:00:00 +0800
+Message-ID: <p10-1@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============1797247014092597283=="
+
+--===============1797247014092597283==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear student,
+
+Urgent invoice attached. Enable active content to review the overdue payment =
+document.
+
+Thank you,
+Office
+
+--===============1797247014092597283==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.docm"
+MIME-Version: 1.0
+
+U3ludGhldGljIGluZXJ0IGF0dGFjaG1lbnQuIE5vIGV4ZWN1dGFibGUgY29udGVudC4=
+
+--===============1797247014092597283==--

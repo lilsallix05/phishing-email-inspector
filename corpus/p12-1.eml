@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: HR contract signature =?utf-8?b?4oCU?= reminder
+Date: Mon, 19 Oct 2026 09:00:00 +0800
+Message-ID: <p12-1@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5285500782558712093=="
+
+--===============5285500782558712093==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear student,
+
+Open your contract now. Enter your login credentials in the verification port=
+al to avoid losing your role.
+
+Thank you,
+Office
+
+--===============5285500782558712093==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Open your contract now. Enter your login credentials in the ve=
+rification portal to avoid losing your role.</p><a href=3D"https://review.exa=
+mple.net/continue">https://portal.example.org/account</a></body></html>
+
+--===============5285500782558712093==--

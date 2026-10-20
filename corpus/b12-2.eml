@@ -1,0 +1,29 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Club volunteer rota =?utf-8?b?4oCU?= notice
+Date: Mon, 19 Oct 2026 10:00:00 +0800
+Message-ID: <b12-2@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============9019328550006624806=="
+
+--===============9019328550006624806==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+The volunteer rota is attached. Let the coordinator know if you need to swap =
+a shift.
+
+Best wishes,
+Coordinator
+
+--===============9019328550006624806==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="notes.txt"
+MIME-Version: 1.0
+
+U3ludGhldGljIGluZXJ0IGF0dGFjaG1lbnQuIE5vIGV4ZWN1dGFibGUgY29udGVudC4=
+
+--===============9019328550006624806==--

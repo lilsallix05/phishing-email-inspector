@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Shared document requires sign in =?utf-8?b?4oCU?= reminder
+Date: Mon, 19 Oct 2026 09:00:00 +0800
+Message-ID: <p04-1@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8257414942827030951=="
+
+--===============8257414942827030951==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear student,
+
+A confidential file is waiting. Enter your password to open the shared docume=
+nt. Access expires today.
+
+Thank you,
+Office
+
+--===============8257414942827030951==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>A confidential file is waiting. Enter your password to open th=
+e shared document. Access expires today.</p><a href=3D"https://review.example=
+.net/continue">https://portal.example.org/account</a></body></html>
+
+--===============8257414942827030951==--

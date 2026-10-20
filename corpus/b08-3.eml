@@ -1,0 +1,30 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Subscription newsletter =?utf-8?b?4oCU?= information
+Date: Mon, 19 Oct 2026 11:00:00 +0800
+Message-ID: <b08-3@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============1232401335139053912=="
+
+--===============1232401335139053912==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello team,
+
+This month we share reading recommendations and upcoming community events. Yo=
+u can manage your subscription on our website.
+
+Service desk
+
+--===============1232401335139053912==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<p>This month we share reading recommendations and upcoming community events.=
+ You can manage your subscription on our website.</p><a href=3D"https://offic=
+e.example.org/info">https://office.example.org/info</a>
+
+--===============1232401335139053912==--

@@ -1,0 +1,28 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: New voicemail recording =?utf-8?b?4oCU?= reminder
+Date: Mon, 19 Oct 2026 09:00:00 +0800
+Message-ID: <p16-1@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============8537646131243362365=="
+
+--===============8537646131243362365==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Dear student,
+
+Your voice message is waiting. Open the attached player to hear the recording.
+
+Thank you,
+Office
+
+--===============8537646131243362365==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.docm"
+MIME-Version: 1.0
+
+U3ludGhldGljIGluZXJ0IGF0dGFjaG1lbnQuIE5vIGV4ZWN1dGFibGUgY29udGVudC4=
+
+--===============8537646131243362365==--

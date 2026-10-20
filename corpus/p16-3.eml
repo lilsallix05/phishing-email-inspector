@@ -1,0 +1,27 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: New voicemail recording =?utf-8?b?4oCU?= information
+Date: Mon, 19 Oct 2026 11:00:00 +0800
+Message-ID: <p16-3@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============4297785754424729459=="
+
+--===============4297785754424729459==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello team,
+
+Your voice message is waiting. Open the attached player to hear the recording.
+
+Service desk
+
+--===============4297785754424729459==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="invoice.docm"
+MIME-Version: 1.0
+
+U3ludGhldGljIGluZXJ0IGF0dGFjaG1lbnQuIE5vIGV4ZWN1dGFibGUgY29udGVudC4=
+
+--===============4297785754424729459==--

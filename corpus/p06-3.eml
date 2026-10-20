@@ -1,0 +1,29 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Tax refund available =?utf-8?b?4oCU?= information
+Date: Mon, 19 Oct 2026 11:00:00 +0800
+Message-ID: <p06-3@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============8439113197723906932=="
+
+--===============8439113197723906932==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello team,
+
+Claim your refund. Provide bank details and pay a release fee within 4 hours.
+
+Service desk
+
+--===============8439113197723906932==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Claim your refund. Provide bank details and pay a release fee =
+within 4 hours.</p><a href=3D"https://review.example.net/continue">https://po=
+rtal.example.org/account</a></body></html>
+
+--===============8439113197723906932==--

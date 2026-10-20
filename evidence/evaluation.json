@@ -1,0 +1,419 @@
+{
+  "dataset": "160 locally authored synthetic emails, 40 scenario families, four variants per family",
+  "scope": "Synthetic holdout only. No real inbox, beta user, click reduction, or production performance was measured.",
+  "split": "Deterministic 70/30 per-class family grouping after unioning canonical-content duplicates; vocabulary fitted only on training data. Threshold fixed at 0.5 before evaluation.",
+  "training_rows": 112,
+  "test_rows": 48,
+  "training_families": [
+    "b01",
+    "b03",
+    "b04",
+    "b05",
+    "b06",
+    "b09",
+    "b10",
+    "b12",
+    "b13",
+    "b14",
+    "b16",
+    "b17",
+    "b19",
+    "b20",
+    "p01",
+    "p02",
+    "p05",
+    "p08",
+    "p09",
+    "p10",
+    "p11",
+    "p12",
+    "p14",
+    "p16",
+    "p17",
+    "p18",
+    "p19",
+    "p20"
+  ],
+  "test_families": [
+    "b02",
+    "b07",
+    "b08",
+    "b11",
+    "b15",
+    "b18",
+    "p03",
+    "p04",
+    "p06",
+    "p07",
+    "p13",
+    "p15"
+  ],
+  "family_overlap": 0,
+  "canonical_duplicate_overlap": 0,
+  "model_metrics": {
+    "true_positive": 24,
+    "false_positive": 7,
+    "true_negative": 17,
+    "false_negative": 0,
+    "precision": 0.7742,
+    "recall": 1.0,
+    "accuracy": 0.8542,
+    "false_positive_rate": 0.2917,
+    "f1": 0.8727,
+    "n": 48
+  },
+  "rules_metrics": {
+    "true_positive": 24,
+    "false_positive": 0,
+    "true_negative": 24,
+    "false_negative": 0,
+    "precision": 1.0,
+    "recall": 1.0,
+    "accuracy": 1.0,
+    "false_positive_rate": 0.0,
+    "f1": 1.0,
+    "n": 48
+  },
+  "predictions": [
+    {
+      "id": "p03-0",
+      "family": "p03",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p03-1",
+      "family": "p03",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p03-2",
+      "family": "p03",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p03-3",
+      "family": "p03",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p04-0",
+      "family": "p04",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p04-1",
+      "family": "p04",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p04-2",
+      "family": "p04",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p04-3",
+      "family": "p04",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p06-0",
+      "family": "p06",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p06-1",
+      "family": "p06",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p06-2",
+      "family": "p06",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p06-3",
+      "family": "p06",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p07-0",
+      "family": "p07",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p07-1",
+      "family": "p07",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p07-2",
+      "family": "p07",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p07-3",
+      "family": "p07",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p13-0",
+      "family": "p13",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p13-1",
+      "family": "p13",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p13-2",
+      "family": "p13",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p13-3",
+      "family": "p13",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 1.0
+    },
+    {
+      "id": "p15-0",
+      "family": "p15",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 0.999748
+    },
+    {
+      "id": "p15-1",
+      "family": "p15",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 0.997929
+    },
+    {
+      "id": "p15-2",
+      "family": "p15",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 0.99965
+    },
+    {
+      "id": "p15-3",
+      "family": "p15",
+      "label": "phishing",
+      "prediction": "phishing",
+      "score": 0.999729
+    },
+    {
+      "id": "b02-0",
+      "family": "b02",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.961798
+    },
+    {
+      "id": "b02-1",
+      "family": "b02",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.753671
+    },
+    {
+      "id": "b02-2",
+      "family": "b02",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.947746
+    },
+    {
+      "id": "b02-3",
+      "family": "b02",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.95906
+    },
+    {
+      "id": "b07-0",
+      "family": "b07",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.335296
+    },
+    {
+      "id": "b07-1",
+      "family": "b07",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.05776
+    },
+    {
+      "id": "b07-2",
+      "family": "b07",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.266535
+    },
+    {
+      "id": "b07-3",
+      "family": "b07",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.319431
+    },
+    {
+      "id": "b08-0",
+      "family": "b08",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 1e-06
+    },
+    {
+      "id": "b08-1",
+      "family": "b08",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.0
+    },
+    {
+      "id": "b08-2",
+      "family": "b08",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 1e-06
+    },
+    {
+      "id": "b08-3",
+      "family": "b08",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 1e-06
+    },
+    {
+      "id": "b11-0",
+      "family": "b11",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.123016
+    },
+    {
+      "id": "b11-1",
+      "family": "b11",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.016761
+    },
+    {
+      "id": "b11-2",
+      "family": "b11",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.091777
+    },
+    {
+      "id": "b11-3",
+      "family": "b11",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.11545
+    },
+    {
+      "id": "b15-0",
+      "family": "b15",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 6e-06
+    },
+    {
+      "id": "b15-1",
+      "family": "b15",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 1e-06
+    },
+    {
+      "id": "b15-2",
+      "family": "b15",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 4e-06
+    },
+    {
+      "id": "b15-3",
+      "family": "b15",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 6e-06
+    },
+    {
+      "id": "b18-0",
+      "family": "b18",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.805168
+    },
+    {
+      "id": "b18-1",
+      "family": "b18",
+      "label": "benign",
+      "prediction": "benign",
+      "score": 0.334318
+    },
+    {
+      "id": "b18-2",
+      "family": "b18",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.748564
+    },
+    {
+      "id": "b18-3",
+      "family": "b18",
+      "label": "benign",
+      "prediction": "phishing",
+      "score": 0.793614
+    }
+  ],
+  "rules_threshold": 20,
+  "model_threshold": 0.5,
+  "corpus_sha256": "f9418fe6999936b067733819ae5c431af6a8c270c0f14477ce9f93172882badd",
+  "corpus_content_sha256": "9e2d6a242c3656450efd61875170bab316a3777a6c48c4403baffae19bee4641"
+}

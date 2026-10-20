@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Email storage full =?utf-8?b?4oCU?= reminder
+Date: Mon, 19 Oct 2026 09:00:00 +0800
+Message-ID: <p07-1@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============5294414142784197522=="
+
+--===============5294414142784197522==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Dear student,
+
+Your mailbox will be blocked. Verify your password to upgrade storage immedia=
+tely.
+
+Thank you,
+Office
+
+--===============5294414142784197522==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Your mailbox will be blocked. Verify your password to upgrade =
+storage immediately.</p><a href=3D"https://review.example.net/continue">https=
+://portal.example.org/account</a></body></html>
+
+--===============5294414142784197522==--

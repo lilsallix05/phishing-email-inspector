@@ -1,0 +1,1282 @@
+[
+  {
+    "id": "p01-0",
+    "family": "p01",
+    "label": "phishing",
+    "file": "p01-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account validation"
+  },
+  {
+    "id": "p01-1",
+    "family": "p01",
+    "label": "phishing",
+    "file": "p01-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account validation"
+  },
+  {
+    "id": "p01-2",
+    "family": "p01",
+    "label": "phishing",
+    "file": "p01-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account validation"
+  },
+  {
+    "id": "p01-3",
+    "family": "p01",
+    "label": "phishing",
+    "file": "p01-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account validation"
+  },
+  {
+    "id": "p02-0",
+    "family": "p02",
+    "label": "phishing",
+    "file": "p02-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Parcel customs charge"
+  },
+  {
+    "id": "p02-1",
+    "family": "p02",
+    "label": "phishing",
+    "file": "p02-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Parcel customs charge"
+  },
+  {
+    "id": "p02-2",
+    "family": "p02",
+    "label": "phishing",
+    "file": "p02-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Parcel customs charge"
+  },
+  {
+    "id": "p02-3",
+    "family": "p02",
+    "label": "phishing",
+    "file": "p02-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Parcel customs charge"
+  },
+  {
+    "id": "p03-0",
+    "family": "p03",
+    "label": "phishing",
+    "file": "p03-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payroll bank update"
+  },
+  {
+    "id": "p03-1",
+    "family": "p03",
+    "label": "phishing",
+    "file": "p03-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payroll bank update"
+  },
+  {
+    "id": "p03-2",
+    "family": "p03",
+    "label": "phishing",
+    "file": "p03-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payroll bank update"
+  },
+  {
+    "id": "p03-3",
+    "family": "p03",
+    "label": "phishing",
+    "file": "p03-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payroll bank update"
+  },
+  {
+    "id": "p04-0",
+    "family": "p04",
+    "label": "phishing",
+    "file": "p04-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Shared document requires sign in"
+  },
+  {
+    "id": "p04-1",
+    "family": "p04",
+    "label": "phishing",
+    "file": "p04-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Shared document requires sign in"
+  },
+  {
+    "id": "p04-2",
+    "family": "p04",
+    "label": "phishing",
+    "file": "p04-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Shared document requires sign in"
+  },
+  {
+    "id": "p04-3",
+    "family": "p04",
+    "label": "phishing",
+    "file": "p04-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Shared document requires sign in"
+  },
+  {
+    "id": "p05-0",
+    "family": "p05",
+    "label": "phishing",
+    "file": "p05-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Gift card request from director"
+  },
+  {
+    "id": "p05-1",
+    "family": "p05",
+    "label": "phishing",
+    "file": "p05-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Gift card request from director"
+  },
+  {
+    "id": "p05-2",
+    "family": "p05",
+    "label": "phishing",
+    "file": "p05-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Gift card request from director"
+  },
+  {
+    "id": "p05-3",
+    "family": "p05",
+    "label": "phishing",
+    "file": "p05-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Gift card request from director"
+  },
+  {
+    "id": "p06-0",
+    "family": "p06",
+    "label": "phishing",
+    "file": "p06-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Tax refund available"
+  },
+  {
+    "id": "p06-1",
+    "family": "p06",
+    "label": "phishing",
+    "file": "p06-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Tax refund available"
+  },
+  {
+    "id": "p06-2",
+    "family": "p06",
+    "label": "phishing",
+    "file": "p06-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Tax refund available"
+  },
+  {
+    "id": "p06-3",
+    "family": "p06",
+    "label": "phishing",
+    "file": "p06-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Tax refund available"
+  },
+  {
+    "id": "p07-0",
+    "family": "p07",
+    "label": "phishing",
+    "file": "p07-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Email storage full"
+  },
+  {
+    "id": "p07-1",
+    "family": "p07",
+    "label": "phishing",
+    "file": "p07-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Email storage full"
+  },
+  {
+    "id": "p07-2",
+    "family": "p07",
+    "label": "phishing",
+    "file": "p07-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Email storage full"
+  },
+  {
+    "id": "p07-3",
+    "family": "p07",
+    "label": "phishing",
+    "file": "p07-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Email storage full"
+  },
+  {
+    "id": "p08-0",
+    "family": "p08",
+    "label": "phishing",
+    "file": "p08-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Prize claim notice"
+  },
+  {
+    "id": "p08-1",
+    "family": "p08",
+    "label": "phishing",
+    "file": "p08-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Prize claim notice"
+  },
+  {
+    "id": "p08-2",
+    "family": "p08",
+    "label": "phishing",
+    "file": "p08-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Prize claim notice"
+  },
+  {
+    "id": "p08-3",
+    "family": "p08",
+    "label": "phishing",
+    "file": "p08-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Prize claim notice"
+  },
+  {
+    "id": "p09-0",
+    "family": "p09",
+    "label": "phishing",
+    "file": "p09-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "MFA support verification"
+  },
+  {
+    "id": "p09-1",
+    "family": "p09",
+    "label": "phishing",
+    "file": "p09-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "MFA support verification"
+  },
+  {
+    "id": "p09-2",
+    "family": "p09",
+    "label": "phishing",
+    "file": "p09-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "MFA support verification"
+  },
+  {
+    "id": "p09-3",
+    "family": "p09",
+    "label": "phishing",
+    "file": "p09-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "MFA support verification"
+  },
+  {
+    "id": "p10-0",
+    "family": "p10",
+    "label": "phishing",
+    "file": "p10-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice attachment"
+  },
+  {
+    "id": "p10-1",
+    "family": "p10",
+    "label": "phishing",
+    "file": "p10-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice attachment"
+  },
+  {
+    "id": "p10-2",
+    "family": "p10",
+    "label": "phishing",
+    "file": "p10-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice attachment"
+  },
+  {
+    "id": "p10-3",
+    "family": "p10",
+    "label": "phishing",
+    "file": "p10-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice attachment"
+  },
+  {
+    "id": "p11-0",
+    "family": "p11",
+    "label": "phishing",
+    "file": "p11-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scholarship acceptance charge"
+  },
+  {
+    "id": "p11-1",
+    "family": "p11",
+    "label": "phishing",
+    "file": "p11-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scholarship acceptance charge"
+  },
+  {
+    "id": "p11-2",
+    "family": "p11",
+    "label": "phishing",
+    "file": "p11-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scholarship acceptance charge"
+  },
+  {
+    "id": "p11-3",
+    "family": "p11",
+    "label": "phishing",
+    "file": "p11-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scholarship acceptance charge"
+  },
+  {
+    "id": "p12-0",
+    "family": "p12",
+    "label": "phishing",
+    "file": "p12-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "HR contract signature"
+  },
+  {
+    "id": "p12-1",
+    "family": "p12",
+    "label": "phishing",
+    "file": "p12-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "HR contract signature"
+  },
+  {
+    "id": "p12-2",
+    "family": "p12",
+    "label": "phishing",
+    "file": "p12-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "HR contract signature"
+  },
+  {
+    "id": "p12-3",
+    "family": "p12",
+    "label": "phishing",
+    "file": "p12-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "HR contract signature"
+  },
+  {
+    "id": "p13-0",
+    "family": "p13",
+    "label": "phishing",
+    "file": "p13-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Bank transfer rejected"
+  },
+  {
+    "id": "p13-1",
+    "family": "p13",
+    "label": "phishing",
+    "file": "p13-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Bank transfer rejected"
+  },
+  {
+    "id": "p13-2",
+    "family": "p13",
+    "label": "phishing",
+    "file": "p13-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Bank transfer rejected"
+  },
+  {
+    "id": "p13-3",
+    "family": "p13",
+    "label": "phishing",
+    "file": "p13-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Bank transfer rejected"
+  },
+  {
+    "id": "p14-0",
+    "family": "p14",
+    "label": "phishing",
+    "file": "p14-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Delivery address correction"
+  },
+  {
+    "id": "p14-1",
+    "family": "p14",
+    "label": "phishing",
+    "file": "p14-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Delivery address correction"
+  },
+  {
+    "id": "p14-2",
+    "family": "p14",
+    "label": "phishing",
+    "file": "p14-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Delivery address correction"
+  },
+  {
+    "id": "p14-3",
+    "family": "p14",
+    "label": "phishing",
+    "file": "p14-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Delivery address correction"
+  },
+  {
+    "id": "p15-0",
+    "family": "p15",
+    "label": "phishing",
+    "file": "p15-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security incident action"
+  },
+  {
+    "id": "p15-1",
+    "family": "p15",
+    "label": "phishing",
+    "file": "p15-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security incident action"
+  },
+  {
+    "id": "p15-2",
+    "family": "p15",
+    "label": "phishing",
+    "file": "p15-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security incident action"
+  },
+  {
+    "id": "p15-3",
+    "family": "p15",
+    "label": "phishing",
+    "file": "p15-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security incident action"
+  },
+  {
+    "id": "p16-0",
+    "family": "p16",
+    "label": "phishing",
+    "file": "p16-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "New voicemail recording"
+  },
+  {
+    "id": "p16-1",
+    "family": "p16",
+    "label": "phishing",
+    "file": "p16-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "New voicemail recording"
+  },
+  {
+    "id": "p16-2",
+    "family": "p16",
+    "label": "phishing",
+    "file": "p16-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "New voicemail recording"
+  },
+  {
+    "id": "p16-3",
+    "family": "p16",
+    "label": "phishing",
+    "file": "p16-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "New voicemail recording"
+  },
+  {
+    "id": "p17-0",
+    "family": "p17",
+    "label": "phishing",
+    "file": "p17-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Vendor bank replacement"
+  },
+  {
+    "id": "p17-1",
+    "family": "p17",
+    "label": "phishing",
+    "file": "p17-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Vendor bank replacement"
+  },
+  {
+    "id": "p17-2",
+    "family": "p17",
+    "label": "phishing",
+    "file": "p17-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Vendor bank replacement"
+  },
+  {
+    "id": "p17-3",
+    "family": "p17",
+    "label": "phishing",
+    "file": "p17-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Vendor bank replacement"
+  },
+  {
+    "id": "p18-0",
+    "family": "p18",
+    "label": "phishing",
+    "file": "p18-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Course registration hold"
+  },
+  {
+    "id": "p18-1",
+    "family": "p18",
+    "label": "phishing",
+    "file": "p18-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Course registration hold"
+  },
+  {
+    "id": "p18-2",
+    "family": "p18",
+    "label": "phishing",
+    "file": "p18-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Course registration hold"
+  },
+  {
+    "id": "p18-3",
+    "family": "p18",
+    "label": "phishing",
+    "file": "p18-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Course registration hold"
+  },
+  {
+    "id": "p19-0",
+    "family": "p19",
+    "label": "phishing",
+    "file": "p19-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Friend needs help"
+  },
+  {
+    "id": "p19-1",
+    "family": "p19",
+    "label": "phishing",
+    "file": "p19-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Friend needs help"
+  },
+  {
+    "id": "p19-2",
+    "family": "p19",
+    "label": "phishing",
+    "file": "p19-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Friend needs help"
+  },
+  {
+    "id": "p19-3",
+    "family": "p19",
+    "label": "phishing",
+    "file": "p19-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Friend needs help"
+  },
+  {
+    "id": "p20-0",
+    "family": "p20",
+    "label": "phishing",
+    "file": "p20-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payment receipt ready"
+  },
+  {
+    "id": "p20-1",
+    "family": "p20",
+    "label": "phishing",
+    "file": "p20-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payment receipt ready"
+  },
+  {
+    "id": "p20-2",
+    "family": "p20",
+    "label": "phishing",
+    "file": "p20-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payment receipt ready"
+  },
+  {
+    "id": "p20-3",
+    "family": "p20",
+    "label": "phishing",
+    "file": "p20-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Payment receipt ready"
+  },
+  {
+    "id": "b01-0",
+    "family": "b01",
+    "label": "benign",
+    "file": "b01-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Seminar room booking"
+  },
+  {
+    "id": "b01-1",
+    "family": "b01",
+    "label": "benign",
+    "file": "b01-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Seminar room booking"
+  },
+  {
+    "id": "b01-2",
+    "family": "b01",
+    "label": "benign",
+    "file": "b01-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Seminar room booking"
+  },
+  {
+    "id": "b01-3",
+    "family": "b01",
+    "label": "benign",
+    "file": "b01-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Seminar room booking"
+  },
+  {
+    "id": "b02-0",
+    "family": "b02",
+    "label": "benign",
+    "file": "b02-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Password reset requested"
+  },
+  {
+    "id": "b02-1",
+    "family": "b02",
+    "label": "benign",
+    "file": "b02-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Password reset requested"
+  },
+  {
+    "id": "b02-2",
+    "family": "b02",
+    "label": "benign",
+    "file": "b02-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Password reset requested"
+  },
+  {
+    "id": "b02-3",
+    "family": "b02",
+    "label": "benign",
+    "file": "b02-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Password reset requested"
+  },
+  {
+    "id": "b03-0",
+    "family": "b03",
+    "label": "benign",
+    "file": "b03-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Project meeting notes"
+  },
+  {
+    "id": "b03-1",
+    "family": "b03",
+    "label": "benign",
+    "file": "b03-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Project meeting notes"
+  },
+  {
+    "id": "b03-2",
+    "family": "b03",
+    "label": "benign",
+    "file": "b03-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Project meeting notes"
+  },
+  {
+    "id": "b03-3",
+    "family": "b03",
+    "label": "benign",
+    "file": "b03-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Project meeting notes"
+  },
+  {
+    "id": "b04-0",
+    "family": "b04",
+    "label": "benign",
+    "file": "b04-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Library renewal receipt"
+  },
+  {
+    "id": "b04-1",
+    "family": "b04",
+    "label": "benign",
+    "file": "b04-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Library renewal receipt"
+  },
+  {
+    "id": "b04-2",
+    "family": "b04",
+    "label": "benign",
+    "file": "b04-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Library renewal receipt"
+  },
+  {
+    "id": "b04-3",
+    "family": "b04",
+    "label": "benign",
+    "file": "b04-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Library renewal receipt"
+  },
+  {
+    "id": "b05-0",
+    "family": "b05",
+    "label": "benign",
+    "file": "b05-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice from regular supplier"
+  },
+  {
+    "id": "b05-1",
+    "family": "b05",
+    "label": "benign",
+    "file": "b05-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice from regular supplier"
+  },
+  {
+    "id": "b05-2",
+    "family": "b05",
+    "label": "benign",
+    "file": "b05-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice from regular supplier"
+  },
+  {
+    "id": "b05-3",
+    "family": "b05",
+    "label": "benign",
+    "file": "b05-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Invoice from regular supplier"
+  },
+  {
+    "id": "b06-0",
+    "family": "b06",
+    "label": "benign",
+    "file": "b06-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security awareness workshop"
+  },
+  {
+    "id": "b06-1",
+    "family": "b06",
+    "label": "benign",
+    "file": "b06-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security awareness workshop"
+  },
+  {
+    "id": "b06-2",
+    "family": "b06",
+    "label": "benign",
+    "file": "b06-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security awareness workshop"
+  },
+  {
+    "id": "b06-3",
+    "family": "b06",
+    "label": "benign",
+    "file": "b06-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Security awareness workshop"
+  },
+  {
+    "id": "b07-0",
+    "family": "b07",
+    "label": "benign",
+    "file": "b07-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Lab equipment ready"
+  },
+  {
+    "id": "b07-1",
+    "family": "b07",
+    "label": "benign",
+    "file": "b07-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Lab equipment ready"
+  },
+  {
+    "id": "b07-2",
+    "family": "b07",
+    "label": "benign",
+    "file": "b07-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Lab equipment ready"
+  },
+  {
+    "id": "b07-3",
+    "family": "b07",
+    "label": "benign",
+    "file": "b07-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Lab equipment ready"
+  },
+  {
+    "id": "b08-0",
+    "family": "b08",
+    "label": "benign",
+    "file": "b08-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Subscription newsletter"
+  },
+  {
+    "id": "b08-1",
+    "family": "b08",
+    "label": "benign",
+    "file": "b08-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Subscription newsletter"
+  },
+  {
+    "id": "b08-2",
+    "family": "b08",
+    "label": "benign",
+    "file": "b08-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Subscription newsletter"
+  },
+  {
+    "id": "b08-3",
+    "family": "b08",
+    "label": "benign",
+    "file": "b08-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Subscription newsletter"
+  },
+  {
+    "id": "b09-0",
+    "family": "b09",
+    "label": "benign",
+    "file": "b09-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Support ticket response"
+  },
+  {
+    "id": "b09-1",
+    "family": "b09",
+    "label": "benign",
+    "file": "b09-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Support ticket response"
+  },
+  {
+    "id": "b09-2",
+    "family": "b09",
+    "label": "benign",
+    "file": "b09-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Support ticket response"
+  },
+  {
+    "id": "b09-3",
+    "family": "b09",
+    "label": "benign",
+    "file": "b09-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Support ticket response"
+  },
+  {
+    "id": "b10-0",
+    "family": "b10",
+    "label": "benign",
+    "file": "b10-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Exam timetable published"
+  },
+  {
+    "id": "b10-1",
+    "family": "b10",
+    "label": "benign",
+    "file": "b10-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Exam timetable published"
+  },
+  {
+    "id": "b10-2",
+    "family": "b10",
+    "label": "benign",
+    "file": "b10-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Exam timetable published"
+  },
+  {
+    "id": "b10-3",
+    "family": "b10",
+    "label": "benign",
+    "file": "b10-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Exam timetable published"
+  },
+  {
+    "id": "b11-0",
+    "family": "b11",
+    "label": "benign",
+    "file": "b11-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Travel expense receipt"
+  },
+  {
+    "id": "b11-1",
+    "family": "b11",
+    "label": "benign",
+    "file": "b11-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Travel expense receipt"
+  },
+  {
+    "id": "b11-2",
+    "family": "b11",
+    "label": "benign",
+    "file": "b11-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Travel expense receipt"
+  },
+  {
+    "id": "b11-3",
+    "family": "b11",
+    "label": "benign",
+    "file": "b11-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Travel expense receipt"
+  },
+  {
+    "id": "b12-0",
+    "family": "b12",
+    "label": "benign",
+    "file": "b12-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Club volunteer rota"
+  },
+  {
+    "id": "b12-1",
+    "family": "b12",
+    "label": "benign",
+    "file": "b12-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Club volunteer rota"
+  },
+  {
+    "id": "b12-2",
+    "family": "b12",
+    "label": "benign",
+    "file": "b12-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Club volunteer rota"
+  },
+  {
+    "id": "b12-3",
+    "family": "b12",
+    "label": "benign",
+    "file": "b12-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Club volunteer rota"
+  },
+  {
+    "id": "b13-0",
+    "family": "b13",
+    "label": "benign",
+    "file": "b13-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Urgent room closure"
+  },
+  {
+    "id": "b13-1",
+    "family": "b13",
+    "label": "benign",
+    "file": "b13-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Urgent room closure"
+  },
+  {
+    "id": "b13-2",
+    "family": "b13",
+    "label": "benign",
+    "file": "b13-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Urgent room closure"
+  },
+  {
+    "id": "b13-3",
+    "family": "b13",
+    "label": "benign",
+    "file": "b13-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Urgent room closure"
+  },
+  {
+    "id": "b14-0",
+    "family": "b14",
+    "label": "benign",
+    "file": "b14-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account sign-in notice"
+  },
+  {
+    "id": "b14-1",
+    "family": "b14",
+    "label": "benign",
+    "file": "b14-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account sign-in notice"
+  },
+  {
+    "id": "b14-2",
+    "family": "b14",
+    "label": "benign",
+    "file": "b14-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account sign-in notice"
+  },
+  {
+    "id": "b14-3",
+    "family": "b14",
+    "label": "benign",
+    "file": "b14-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Account sign-in notice"
+  },
+  {
+    "id": "b15-0",
+    "family": "b15",
+    "label": "benign",
+    "file": "b15-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Donation event invitation"
+  },
+  {
+    "id": "b15-1",
+    "family": "b15",
+    "label": "benign",
+    "file": "b15-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Donation event invitation"
+  },
+  {
+    "id": "b15-2",
+    "family": "b15",
+    "label": "benign",
+    "file": "b15-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Donation event invitation"
+  },
+  {
+    "id": "b15-3",
+    "family": "b15",
+    "label": "benign",
+    "file": "b15-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Donation event invitation"
+  },
+  {
+    "id": "b16-0",
+    "family": "b16",
+    "label": "benign",
+    "file": "b16-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Research feedback"
+  },
+  {
+    "id": "b16-1",
+    "family": "b16",
+    "label": "benign",
+    "file": "b16-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Research feedback"
+  },
+  {
+    "id": "b16-2",
+    "family": "b16",
+    "label": "benign",
+    "file": "b16-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Research feedback"
+  },
+  {
+    "id": "b16-3",
+    "family": "b16",
+    "label": "benign",
+    "file": "b16-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Research feedback"
+  },
+  {
+    "id": "b17-0",
+    "family": "b17",
+    "label": "benign",
+    "file": "b17-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Conference registration"
+  },
+  {
+    "id": "b17-1",
+    "family": "b17",
+    "label": "benign",
+    "file": "b17-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Conference registration"
+  },
+  {
+    "id": "b17-2",
+    "family": "b17",
+    "label": "benign",
+    "file": "b17-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Conference registration"
+  },
+  {
+    "id": "b17-3",
+    "family": "b17",
+    "label": "benign",
+    "file": "b17-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Conference registration"
+  },
+  {
+    "id": "b18-0",
+    "family": "b18",
+    "label": "benign",
+    "file": "b18-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scheduled maintenance"
+  },
+  {
+    "id": "b18-1",
+    "family": "b18",
+    "label": "benign",
+    "file": "b18-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scheduled maintenance"
+  },
+  {
+    "id": "b18-2",
+    "family": "b18",
+    "label": "benign",
+    "file": "b18-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scheduled maintenance"
+  },
+  {
+    "id": "b18-3",
+    "family": "b18",
+    "label": "benign",
+    "file": "b18-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Scheduled maintenance"
+  },
+  {
+    "id": "b19-0",
+    "family": "b19",
+    "label": "benign",
+    "file": "b19-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Training payment example"
+  },
+  {
+    "id": "b19-1",
+    "family": "b19",
+    "label": "benign",
+    "file": "b19-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Training payment example"
+  },
+  {
+    "id": "b19-2",
+    "family": "b19",
+    "label": "benign",
+    "file": "b19-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Training payment example"
+  },
+  {
+    "id": "b19-3",
+    "family": "b19",
+    "label": "benign",
+    "file": "b19-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Training payment example"
+  },
+  {
+    "id": "b20-0",
+    "family": "b20",
+    "label": "benign",
+    "file": "b20-0.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Document review reminder"
+  },
+  {
+    "id": "b20-1",
+    "family": "b20",
+    "label": "benign",
+    "file": "b20-1.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Document review reminder"
+  },
+  {
+    "id": "b20-2",
+    "family": "b20",
+    "label": "benign",
+    "file": "b20-2.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Document review reminder"
+  },
+  {
+    "id": "b20-3",
+    "family": "b20",
+    "label": "benign",
+    "file": "b20-3.eml",
+    "provenance": "Locally authored synthetic scenario; no real email; author-assigned intent label",
+    "scenario": "Document review reminder"
+  }
+]

@@ -1,0 +1,29 @@
+Received: from mail.billing.example.com (mail.billing.example.com [192.0.2.44])
+ by mx.example.net with ESMTPS id 4XQ7Lm; Tue, 20 Oct 2026 09:12:03 +0800
+Authentication-Results: mx.example.net;
+ spf=softfail smtp.mailfrom=billing.example.com;
+ dkim=none;
+ dmarc=fail header.from=office.example.org
+Received-SPF: SoftFail (mx.example.net: domain of billing.example.com does not designate 192.0.2.44 as permitted sender)
+Return-Path: <bounce@billing.example.com>
+From: Finance Office <accounts@office.example.org>
+Reply-To: Finance Office <accounts@billing.example.com>
+To: Club Treasurer <treasurer@example.net>
+Subject: Updated bank details for Friday's payment run
+Date: Tue, 20 Oct 2026 09:11:58 +0800
+Message-ID: <synthetic-supplier-0001@billing.example.com>
+MIME-Version: 1.0
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: 7bit
+
+Hello,
+
+Our bank account has changed. Please use the new details below for the
+wire transfer on Friday so the payment is not delayed.
+
+Reply to this email to confirm once the change is made.
+
+Finance Office
+
+(Synthetic example for Postmark. All names, hosts and addresses are reserved
+example values; this is not a real message.)

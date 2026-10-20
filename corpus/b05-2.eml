@@ -1,0 +1,29 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Invoice from regular supplier =?utf-8?b?4oCU?= notice
+Date: Mon, 19 Oct 2026 10:00:00 +0800
+Message-ID: <b05-2@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/mixed; boundary="===============3286316630765635936=="
+
+--===============3286316630765635936==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Good morning,
+
+Here is the invoice for the order agreed last week. Payment is due next month=
+ using our existing account details.
+
+Best wishes,
+Coordinator
+
+--===============3286316630765635936==
+Content-Type: application/octet-stream
+Content-Transfer-Encoding: base64
+Content-Disposition: attachment; filename="notes.txt"
+MIME-Version: 1.0
+
+U3ludGhldGljIGluZXJ0IGF0dGFjaG1lbnQuIE5vIGV4ZWN1dGFibGUgY29udGVudC4=
+
+--===============3286316630765635936==--

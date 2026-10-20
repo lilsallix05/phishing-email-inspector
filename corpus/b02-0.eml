@@ -1,0 +1,16 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Password reset requested
+Date: Mon, 19 Oct 2026 08:00:00 +0800
+Message-ID: <b02-0@fixtures.example.org>
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+Hello,
+
+You requested a password reset. Open the official app to continue. Never shar=
+e your password or one-time code.
+
+Regards,
+Service team

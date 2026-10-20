@@ -1,0 +1,30 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Payroll bank update =?utf-8?b?4oCU?= information
+Date: Mon, 19 Oct 2026 11:00:00 +0800
+Message-ID: <p03-3@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============4480139800353998728=="
+
+--===============4480139800353998728==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello team,
+
+Urgent payroll update. Send your bank details and confirm your login credenti=
+als before salary processing.
+
+Service desk
+
+--===============4480139800353998728==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Urgent payroll update. Send your bank details and confirm your=
+ login credentials before salary processing.</p><a href=3D"https://review.exa=
+mple.net/continue">https://portal.example.org/account</a></body></html>
+
+--===============4480139800353998728==--

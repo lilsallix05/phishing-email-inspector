@@ -1,0 +1,30 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Account validation =?utf-8?b?4oCU?= information
+Date: Mon, 19 Oct 2026 11:00:00 +0800
+Message-ID: <p01-3@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============2722564472260283283=="
+
+--===============2722564472260283283==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello team,
+
+Verify your password immediately or your account will be suspended. Confirm y=
+our password at the support portal.
+
+Service desk
+
+--===============2722564472260283283==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Verify your password immediately or your account will be suspe=
+nded. Confirm your password at the support portal.</p><a href=3D"https://revi=
+ew.example.net/continue">https://portal.example.org/account</a></body></html>
+
+--===============2722564472260283283==--

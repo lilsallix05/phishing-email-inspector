@@ -1,0 +1,31 @@
+From: Campus services <notice@office.example.org>
+To: Student <student@example.net>
+Subject: Scholarship acceptance charge
+Date: Mon, 19 Oct 2026 08:00:00 +0800
+Message-ID: <p11-0@fixtures.example.org>
+MIME-Version: 1.0
+Content-Type: multipart/alternative;
+ boundary="===============6630891895656150204=="
+
+--===============6630891895656150204==
+Content-Type: text/plain; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+
+Hello,
+
+Your scholarship is approved. Pay the release fee using cryptocurrency before=
+ this last chance expires.
+
+Regards,
+Service team
+
+--===============6630891895656150204==
+Content-Type: text/html; charset="utf-8"
+Content-Transfer-Encoding: quoted-printable
+MIME-Version: 1.0
+
+<html><body><p>Your scholarship is approved. Pay the release fee using crypto=
+currency before this last chance expires.</p><a href=3D"https://review.exampl=
+e.net/continue">https://portal.example.org/account</a></body></html>
+
+--===============6630891895656150204==--
