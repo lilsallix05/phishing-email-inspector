@@ -8,6 +8,10 @@ A local desk for inspecting a suspicious email without ever opening it. Import t
 
 *Not related to the commercial Postmark email delivery service.*
 
+## The attack
+
+Credential phishing hides in the details of a message: link text that names one site while the real destination is another, a sender name borrowed from a trusted service, and authentication results that the sender can simply write into the headers. Postmark exposes each of those tricks without ever opening a link or running an attachment.
+
 ## What it does
 
 - Parses the original message bytes and shows sender, reply-to, return path, received chain and authentication headers.
